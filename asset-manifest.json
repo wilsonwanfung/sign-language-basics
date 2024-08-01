@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/signlangbasics/static/css/main.df46c47c.css",
-    "main.js": "/signlangbasics/static/js/main.2bd0c0e8.js",
-    "static/js/453.26ad2b56.chunk.js": "/signlangbasics/static/js/453.26ad2b56.chunk.js",
-    "static/media/chungchi.png": "/signlangbasics/static/media/chungchi.4eb057a2a74cd5f23f92.png",
-    "index.html": "/signlangbasics/index.html",
-    "main.df46c47c.css.map": "/signlangbasics/static/css/main.df46c47c.css.map",
-    "main.2bd0c0e8.js.map": "/signlangbasics/static/js/main.2bd0c0e8.js.map",
-    "453.26ad2b56.chunk.js.map": "/signlangbasics/static/js/453.26ad2b56.chunk.js.map"
+    "main.css": "/sign/static/css/main.df46c47c.css",
+    "main.js": "/sign/static/js/main.d1813373.js",
+    "static/js/453.26ad2b56.chunk.js": "/sign/static/js/453.26ad2b56.chunk.js",
+    "static/media/chungchi.png": "/sign/static/media/chungchi.4eb057a2a74cd5f23f92.png",
+    "index.html": "/sign/index.html",
+    "main.df46c47c.css.map": "/sign/static/css/main.df46c47c.css.map",
+    "main.d1813373.js.map": "/sign/static/js/main.d1813373.js.map",
+    "453.26ad2b56.chunk.js.map": "/sign/static/js/453.26ad2b56.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df46c47c.css",
-    "static/js/main.2bd0c0e8.js"
+    "static/js/main.d1813373.js"
   ]
 }
